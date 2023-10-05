@@ -2,5 +2,5 @@
 
 Following along with Maximilian Schwarzmüller's React - The Complete Guide 2023 (incl. React Router & Redux) Udemy course
 
-![alt text](https://github.com/biggie9925/react-custom-http-hook/blob/master/screenshots/1.jpg?raw=true)
-![alt text](https://github.com/biggie9925/react-custom-http-hook/blob/master/screenshots/2.jpg?raw=true)
+![alt text](https://github.com/dmackeyward/react-custom-http-hook/blob/master/screenshots/1.jpg?raw=true)
+![alt text](https://github.com/dmackeyward/react-custom-http-hook/blob/master/screenshots/2.jpg?raw=true)
